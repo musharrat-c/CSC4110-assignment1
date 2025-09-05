@@ -1,6 +1,5 @@
-
-\# GitHub and gitconflict
-\# Github and git
+# Github and git
+# CSC4110-assignment1
 ## Musharrat Chowdhury
 ### hb1588
 
