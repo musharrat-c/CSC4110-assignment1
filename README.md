@@ -1,6 +1,6 @@
-\# GitHub and gitconflict
-Musharrat Chowdhury
-===
 
-## hb1588
+\# GitHub and gitconflict
+\# Github and git
+## Musharrat Chowdhury
+### hb1588
 
